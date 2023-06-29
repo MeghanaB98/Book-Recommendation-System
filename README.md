@@ -1,6 +1,6 @@
 <h1>Book Recommendation System 📚</h1>
 
-<img src="" alt="Bookshelf">
+<img aling=“middle” height= "250" src="https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/1129750/retina_1708x683_cover-0102-PredictingLikes-Waldek_cover-e8956144f8adc4f6f1c9dcda465b0619-291312f55d7333df6b034846e72f7f6e.png" alt="Bookshelf">
 
 <h2>Introduction</h2>
 
